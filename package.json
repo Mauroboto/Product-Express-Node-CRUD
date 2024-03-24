@@ -1,0 +1,30 @@
+{
+  "name": "crud-node-express",
+  "version": "1.0.0",
+  "description": "Products CRUD Rest API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mauroboto/Product-Express-Node-CRUD.git"
+  },
+  "keywords": [
+    "Node",
+    "Rest",
+    "API",
+    "MongoDB",
+    "Mongoose",
+    "Express"
+  ],
+  "author": "BotoDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mauroboto/Product-Express-Node-CRUD/issues"
+  },
+  "homepage": "https://github.com/Mauroboto/Product-Express-Node-CRUD#readme",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}
